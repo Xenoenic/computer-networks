@@ -1,7 +1,3 @@
-'''
-Ninam Rai 200619540
-Zainab Baig 210328240
-'''
 #import libraries needed for communication with a secure email server
 from socket import *
 import ssl
