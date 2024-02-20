@@ -1,7 +1,7 @@
 # CP372 Computer-Networks
 Introduction to computer communication networks. The OSI reference model. Protocols for error and flow control, medium access protocols, routing and congestion control. Internet architecture and protocols and Unix network programming.
 
-A1
+## A1
 In this assignment, you will develop a client and server application that communicate using a
 specific protocol called HaveFunCoding (HFC). The protocol consists of four phases. The initial
 two phases use UDP for communication, while the last two phases use TCP. Communication
@@ -22,7 +22,7 @@ by 4. In other words, when constructing a packet, the data part must be padded t
 packet length is evenly divisible by 4
 
 
-A2
+## A2
 Your task is to develop a simple mail client that sends email to any recipient. Your client will
 need to connect to a mail server, dialogue with the mail server using the SMTP protocol, and
 send an email message through the mail server. Refer to the slides on Application layer where a
